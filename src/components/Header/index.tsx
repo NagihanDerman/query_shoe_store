@@ -4,7 +4,7 @@ const index = () => {
   return (
     <header className="bg-fa_white flex justify-between max-w-[1320px] rounded-[12px] md:rounded-[24px] items-center">
       <div
-        className="max-md:hidden text-dark font-semibold flex gap-[40px] item center p-6
+        className="max-md:hidden  text-dark font-semibold flex gap-[40px] item center p-6
       "
       >
         <Link to="/">New Drops 🔥</Link>

@@ -43,7 +43,7 @@ const Filter = ({ isOpen, close }: Props) => {
           : "max-lg:hidden"
       }  col-span-1 `}
     >
-      <div className="max-lg:max-w-lg max-lg:mx-auto max-lg:h-[90vh] ">
+      <div className="max-lg:max-w-lg max-lg:mx-auto max-lg:h-[100vh] ">
         <h2 className="text-xl font-semibold max-lg:bg-white max-lg:flex max-lg:justify-between max-lg:p-4 rounded-t-md">
           Filters
           <button className="lg:hidden" onClick={close}>

@@ -24,6 +24,10 @@ This project is a responsive shoe store application developed using modern web t
 - use-debounce: To debounce user inputs like filter options to improve performance.
 - JSON Server : A simple backend to mock API calls and serve product data.
 
+### Applied Design
+
+https://www.figma.com/community/file/1214498651988846999/kicks-shoes-ecommerce-website-and-admin-mvp?searchSessionId=ly6ajf7x-vly8vll5xrr
+
 ### GIF
 
-<img src=""/>
+<img src="./public/shoesapp.gif"/>
